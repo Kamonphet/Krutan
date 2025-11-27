@@ -8,13 +8,14 @@ Website for Managing Substitute Teaching for Teachers.
  - **Data Management System (Teachers, Class Schedules, Classes, Subjects)** Allows adding, deleting, and editing data via the web interface.
  - **Teacher's Class Schedule Display** System displays the class schedule for each teacher
  - **Leave Request and Substitute Teaching Management System** System handles leave requests and manages the assignment of substitute teaching.
+ - **Substitute Teaching** System has criteria for selecting teachers who are available and teach less each day.
  - **Substitute Teaching Report Copy Function** Allows users to copy the substitute teaching report results for further use.
  - **Schedule Data Download** Allows downloading each teacher's class schedule data as a .csv file.
  - **Open Access** All users can access the system (No login required).
  - **Dashboard** Provides an overall summary report of substitute teaching activities within the system.
 
 ## 🛠 Tech Stack
- - Front-end: Vite:TS react, TailwindCSS
+ - Front-end: Vite:Ts React, TailwindCSS
  - Back-end: Google App Scripts API
  - Database: Google Sheets
  - AI agent: Antigravity(Gemini 3 pro)
